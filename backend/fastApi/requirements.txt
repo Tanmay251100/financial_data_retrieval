@@ -1,0 +1,6 @@
+fastapi
+snowflake-connector-python
+boto3
+python-dotenv
+uvicorn
+pandas

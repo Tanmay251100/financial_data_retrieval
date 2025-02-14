@@ -1,0 +1,9 @@
+.streamlit-venv
+.fastapi-venv
+__pycache__
+artifacts
+.env
+.venv
+airflow/logs
+prototyping
+dbt_sec_cloud-main/
